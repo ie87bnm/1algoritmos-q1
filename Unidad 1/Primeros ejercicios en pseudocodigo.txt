@@ -1,0 +1,86 @@
+Imprimir (# Readme de mis primeros algoritmos”)
+Imprimir (”mis-primeros-algoritmos”)
+Imprimir ()
+Imprimir (“# Secciones: Propósito, Temas practicados, Como ejecutar”)
+ Imprimir (“# Propósito: Que el alumno practique la construcción de algoritmos en pseudocódigo y lo ejecute”)
+Imprimir ()
+Imprimir (“## Temas practicados
+-	Ciclos for
+-	Ciclos e iteraciones
+-	Ciclos anidados
+-	Cuando usar for o while”)
+Imprimir ()
+Imprimir (“### Como ejecutar”)
+Imprimir (“ El pseudocódigo es un –falso lenguaje- diseñado para ser leído por humanos, no se puede ejecutar directamente en una computadora como si fuese un lenguaje de programación real como Python o Java, sin embargo existen métodos opcionales para ser –ejecutados- manualmente _simulación_ o utilizar un software diseñado específicamente para ejecutar pseudocódigo”)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Funcion separador(repositorio)
+	Imprimir "======================"
+	Imprimir repositorio
+	Imprimir "======================"
+	Imprimir "✔ Repositorio. Cuaderno listo"
+FinFuncion
+
+Algoritmo CuadernoDeAlgoritmos
+	
+	separador("Mis Primeros Algoritmos")
+	
+	Imprimir "" // Imprime una línea en blanco
+	Imprimir "# Readme de mis primeros algoritmos"
+	Imprimir "mis-primeros-algoritmos"
+	Imprimir ""
+	Imprimir "# Secciones: Propósito, Temas practicados, Como ejecutar"
+	Imprimir "# Propósito: Que el alumno practique la construcción de algoritmos en pseudocódigo y lo ejecute"
+	Imprimir ""
+	Imprimir "## Temas practicados"
+	Imprimir "-	Ciclos for"
+	Imprimir "-	Ciclos e iteraciones"
+	Imprimir "-	Ciclos anidados"
+	Imprimir "-	Cuando usar for o while"
+	Imprimir ""
+	Imprimir "### Como ejecutar"
+	Imprimir "El pseudocódigo es un -falso lenguaje- diseñado para ser leído por humanos, no se puede ejecutar directamente en una computadora como si fuese un lenguaje de programación real como Python o Java, sin embargo existen métodos opcionales para ser -ejecutados- manualmente _simulación_ o utilizar un software diseñado específicamente para ejecutar pseudocódigo"
+
+FinAlgoritmo
+………………………………………………………………………..
+▶ Ejecutando...
+======================
+Mis Primeros Algoritmos
+======================
+  Repositorio. Cuaderno listo
+# Readme de mis primeros algoritmos
+mis-primeros-algoritmos
+# Secciones: Propósito, Temas practicados, Como ejecutar
+# Propósito: Que el alumno practique la construcción de algoritmos en pseudocódigo y lo ejecute
+## Temas practicados
+- Ciclos for
+- Ciclos e iteraciones
+- Ciclos anidados
+- Cuando usar for o while
+### Como ejecutar
+El pseudocódigo es un -falso lenguaje- diseñado para ser leído por humanos, no se puede ejecutar directamente en una computadora como si fuese un lenguaje de programación real como Python o Java, sin embargo existen métodos opcionales para ser -ejecutados- manualmente _simulación_ o utilizar un software diseñado específicamente para ejecutar pseudocódigo
+✓ Ejecución exitosa (0.4s)
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+Funcion separador(texto_ingresado)
+  Imprimir "======================"
+  Imprimir texto_ingresado
+  Imprimir "======================"
+FinFuncion
+
+Algoritmo ejercicios_de_pseudocódigo
+  Imprimir "Primeros ejercicios"
+  separador("iniciar sistema") 
+	
+  Imprimir "✔️ Cuaderno listo"
+FinAlgoritmo
+
+Consola de salida
+▶ Ejecutando...
+Primeros ejercicios
+======================
+iniciar sistema
+======================
+Cuaderno listo
+✓ Ejecución exitosa (0.4s)
